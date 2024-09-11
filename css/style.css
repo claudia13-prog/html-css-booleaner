@@ -47,6 +47,10 @@ h1{
     background-color: yellow;
 }
 
+ul{
+    padding-left: 20px;
+}
+
 .space{
     margin-bottom: 30px;
 }
