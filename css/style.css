@@ -42,3 +42,11 @@ h1{
 #caption{
     font-size: 10pt;
 }
+
+#giallo{
+    background-color: yellow;
+}
+
+.space{
+    margin-bottom: 30px;
+}
