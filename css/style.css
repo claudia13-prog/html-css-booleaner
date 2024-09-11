@@ -54,3 +54,29 @@ ul{
 .space{
     margin-bottom: 30px;
 }
+
+table{
+    border: 1px solid white;
+
+}
+
+thead{
+    text-align: left;
+    color: white;
+    background-color:cornflowerblue;
+
+}
+
+.column-widht-1{
+    width:30%;
+
+}
+
+.column-widht-2{
+    width: 40%;
+    
+}
+
+.tr-background{
+    background-color:rgb(210, 214, 220)
+}
