@@ -1,0 +1,92 @@
+
+.conteiner{
+
+    padding-left: 20px;
+}
+
+/* header */
+
+#logo {
+
+    width: 200px;
+}
+
+header{
+    background-color: rgb(166, 211, 242) ;
+    background-image: url(../img/pattern.png);
+    padding: 40px 0 40px 0;
+}
+
+/*main*/
+
+h1{
+    font-size: 30pt;
+    margin-bottom: 0;
+}
+
+#subtitle{
+    color: gray;
+    font-size: 16pt;
+    margin: 0 0 20px 0;
+    font-weight: bold;
+    line-height: 1.0;
+}
+
+#writer{
+    color:cornflowerblue
+}
+
+#date{
+    font-size: 12pt;
+}
+
+#caption{
+    font-size: 10pt;
+}
+
+#giallo{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 20px;
+}
+
+.space{
+    margin-bottom: 30px;
+}
+
+table{
+    border: 1px solid white;
+
+}
+
+thead{
+    text-align: left;
+    color: white;
+    background-color:cornflowerblue;
+
+}
+
+.column-widht-1{
+    width:30%;
+
+}
+
+.column-widht-2{
+    width: 40%;
+    
+}
+
+.tr-background{
+    background-color:rgb(210, 214, 220)
+}
+
+/* footer */
+
+footer{
+    color: white;
+    background-color: darkslateblue;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
