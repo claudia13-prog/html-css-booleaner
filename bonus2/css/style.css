@@ -1,4 +1,9 @@
 
+#contenitore{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
 .conteiner{
 
     padding-left: 20px;
